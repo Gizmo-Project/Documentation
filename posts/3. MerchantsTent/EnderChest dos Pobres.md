@@ -1,0 +1,2 @@
+## Sinopse
+The [[Merchant Main Character Overall]] can find [[EnderChest dos Pobres]] around the [[Dungeon Level Overall]] and in the [[Merchants Tent Overall]], where the player can store resources to relief his backpack, the chests are interligated.
