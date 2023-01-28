@@ -1,6 +1,6 @@
 # Gizmo Project Documentation
 Repository containing all game documentation. 
-This documentation is better viewed online [here](https://boisterous-raindrop-c0a863.netlify.app/) or using [Obsidian](https://obsidian.md/).
+This documentation is better viewed [online](https://boisterous-raindrop-c0a863.netlify.app/) or using [Obsidian](https://obsidian.md/).
 
 ## How to edit this documentation
 1. Clone this repository
